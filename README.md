@@ -11,8 +11,9 @@ Example: telnet 54.186.32.247 9399
 It currently supports use of nicknames and joining/leaving of rooms.
 Type /help to see the options.
 
-Upcoming features:
-browser based client
-private messages
-user created rooms
+Upcoming features:<br>
+- browser based client<br>
+- private messages<br>
+- user created rooms<br>
+<br>
 Stay tuned...
